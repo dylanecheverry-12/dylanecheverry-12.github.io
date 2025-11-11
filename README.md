@@ -3,10 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mon Site Web</title>
 </head>
 <body>
-    <h1>Bienvenue sur mon site web hébergé sur GitHub Pages</h1>
-    <p>Ceci est un site simple que j'ai créé pour apprendre GitHub Pages !</p>
+    <h1>Mon site web!!</h1>
 </body>
 </html>
