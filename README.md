@@ -129,5 +129,4 @@
   </footer>
 </body>
 </html>
-Puedo adaptarlo a tu estilo fácilmente.
 
