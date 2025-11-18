@@ -6,25 +6,33 @@
     <title>Mon Site Web</title>
     <style>
         body {
-            background: linear-gradient(to bottom, #003366, #ffffff);
             margin: 0;
-            color: white; 
-            font-family: Arial, sans-serif; 
+            min-height: 100vh;
+            background: linear-gradient(to bottom, #003366, #ffffff);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
             text-align: center;
+            color: white;
+            font-family: Arial, sans-serif;
         }
 
         h1 {
-            color: #FFD700;
-            margin-top: 40px; 
+            color: black; /* TITRE EN NOIR */
+            margin-top: 40px;
+            display: inline-block;
+            border-bottom: 3px solid red; /* LIGNE ROUGE SOUS LE TITRE */
+            padding-bottom: 5px;
         }
 
         p {
-            color: #FFFFFF; 
             font-size: 1.2rem;
+            display: inline-block;
+            border-bottom: 3px solid red; /* LIGNE ROUGE SOUS LE TEXTE */
+            padding-bottom: 5px;
         }
 
         .container {
-            padding-top: 50px; 
+            padding-top: 30px;
         }
     </style>
 </head>
